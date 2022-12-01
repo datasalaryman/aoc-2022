@@ -1,3 +1,6 @@
+# Ignore input files from Advent of Code Puzzles
+**/input.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
